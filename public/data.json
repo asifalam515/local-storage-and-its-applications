@@ -1,0 +1,44 @@
+[
+    {
+      "id": "63f6c72eb43bebbb4f96fabf",
+      "price": 263,
+      "eyeColor": "blue",
+      "name": "Nannie Tran"
+    },
+    {
+      "id": "63f6c72e816d92e021c6da1d",
+      "price": 355,
+      "eyeColor": "brown",
+      "name": "Garcia Cabrera"
+    },
+    {
+      "id": "63f6c72e66162a527a367d69",
+      "price": 432,
+      "eyeColor": "blue",
+      "name": "Marsh Allen"
+    },
+    {
+      "id": "63f6c72e32deeef7034d872e",
+      "price": 480,
+      "eyeColor": "blue",
+      "name": "Janell Wade"
+    },
+    {
+      "id": "63f6c72ec25a7afbaa731b9f",
+      "price": 104,
+      "eyeColor": "brown",
+      "name": "Cervantes Soto"
+    },
+    {
+      "id": "63f6c72e34c3d5897b5a77e2",
+      "price": 484,
+      "eyeColor": "brown",
+      "name": "Snider Castaneda"
+    },
+    {
+      "id": "63f6c72e9073415f7183cf2d",
+      "price": 50,
+      "eyeColor": "brown",
+      "name": "Hodge Hall"
+    }
+  ]
